@@ -1,0 +1,10 @@
+
+Check the field "name" when creating a user
+   2.PreConditions
+ In field "name" we can entere symbols: a-z, 0-9, !@#$%^&*()_+.
+   3.Step action
+1.Open site http://151.80.70.42:3000/         --------> 1.The site is opened.
+2.Press button "red icon with plus".          --------> 2.Panel create user is opened.
+3.Enter the field "name" symbols a-z.         --------> 3.The field allows you to enter text.
+4.Enter the field "name" symbols 0-9.         --------> 4.The field allows you to enter text.
+5.Enter the field "name" symbols !@#$%^&*()_+.--------> 5.The field allows you to enter text.

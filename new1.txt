@@ -1,0 +1,9 @@
+
+Check function create user
+   2.PreConditions
+User should be deleted   
+   3.Step action
+1.Open site http://151.80.70.42:3000/                   --------> 1.The site is opened.
+2.Enter in left table.                                  --------> 2.Left table is entered.
+3.Press button "cross" nearby with username .           --------> 3.User is deleted.
+

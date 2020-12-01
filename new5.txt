@@ -1,0 +1,13 @@
+
+Checking page display
+   2.PreConditions
+On display should be interface with creating or deleting users.
+   3.Step action
+1.Open site http://151.80.70.42:3000/                                                                             --------> 1.The site is opened.
+2.In left side be table with users                                                                                --------> 2.Table in the left side.
+3.Table with users has  two buttons: create user "red icon with pluse" and delete user "icon with cross".         --------> 3.Two buttons: create user "red icon with pluse" and delete user "icon with cross" are in table
+4.Button delete "icon with cross".                                                                                --------> Removes a user.
+5.Button create "red icon with pluse".                                                                            --------> Creates a user.
+6.Click on username in table with users and we get information about this user on right side .                    --------> 6.Information is appear on right side .
+
+

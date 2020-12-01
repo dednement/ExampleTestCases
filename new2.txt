@@ -1,0 +1,11 @@
+
+Check function delete user
+   2.PreConditions
+User should be created  
+   3.Step action
+1.Open site http://151.80.70.42:3000/ --------> 1.The site is opened.
+2.Press button "red icon with plus".  --------> 2.Panel create user is opened.
+3.Fill in the "name" field.           --------> 3.Field is filled.
+4.Fill in the "password" field.       --------> 4.Field is filled.
+5.Choice role user.                   --------> 5.Role is choiced.
+6.Press button "CREATE".              --------> 6.User is created.
